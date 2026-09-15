@@ -102,7 +102,7 @@ instruction-level-parallelism-simulator/
 
 The simulation demonstrates that Instruction-Level Parallelism can improve processor performance by executing independent instructions simultaneously. However, dependencies between instructions can limit the amount of parallelism available.
 
-## Author
+## Submitted by
 
 Harshita Singh
 
